@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>A.V. ENGINEERS: LOGIN</title>
+
+    <link rel="stylesheet" type="text/css" href=".\style.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+    body {font-family: Arial, Helvetica, sans-serif;}
+    form {border: 3px solid #f1f1f1;}
+
+    input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    }
+
+    button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    }
+
+    button:hover {
+    opacity: 0.8;
+    }
+
+    .cancelbtn {
+        position: relative;
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+        margin-left: 185px;
+    }
+
+    .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    }
+
+
+
+    .container {
+    padding: 16px;
+        width: 500px;
+        margin-left: 435px;
+        
+    }
+
+    span.psw {
+    float: right;
+    padding-top: 16px;
+    }
+
+    /* Change styles for span and cancel button on extra small screens */
+    @media screen and (max-width: 300px) {
+    span.psw {
+        display: block;
+        float: none;
+    }
+    .cancelbtn {
+        width: 100%;
+    }
+    }
+    </style>
+</head>
+
+
+<body>
+    
+<div class="company_logo">
+    <a href="http://avengineers.co.in/" target="_blank"><img src=".\Logo.png" alt="Company Logo" height="140" width="600"></a></div>
+    <div class="head_banner"><img src="./20.png" alt="Company Logo" height="200" width="600"></div>
+
+    <div class="navbar">
+        <a class="active" href="./login.html"><i class="fa fa-fw fa-home"></i>Dashboard</a> 
+        <a href="./login.html"><i class="fa fa-fw fa-search"></i>Sales Orders</a> 
+        <a href="http://avengineers.co.in" target="_blank"><i class="fa fa-fw fa-envelope"></i>Company Website</a> 
+        <a href="#contacts"><i class="fa fa-fw fa-user"></i>Contacts</a>
+    </div>
+
+    <h2><center>Login</center></h2>
+
+    <hr size="4.5" width="100%" align="left" color="#4CAF50">
+
+    <div class="imgcontainer">
+        <img src="./face1.png" alt="Avatar" class="avatar">
+    </div>
+
+    <div class="container">
+        <label for="uname"><b>Username</b></label>
+        <input type="text" placeholder="Enter Username" name="uname" width = "50px"required>
+
+        <label for="psw"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="psw" required>
+        
+        <a href="./AVE_Portal.html"><button type="submit">Login</button></a>
+        <label>
+            <input type="checkbox" checked="checked" name="remember"> Remember me
+        </label>
+    </div>
+
+    <div class="container" style="background-color:#f1f1f1">
+        <button type="button" class="cancelbtn">Forgot Password</button>
+<!--        <span class="psw">Forgot <a href="#">password?</a></span>-->
+   </div>
+
+
+    <hr size="6" width="100%" align="left" color="#4CAF50">
+
+    <div id="contacts">
+        <center>
+        <p>
+            <strong>Email</strong>: <a href="mailto:arunpopli@avengineers.co.in" target="_top">arunpopli@avengineers.co.in</a> | <strong>Phone</strong>: (+91)-9873621215, +0124-4369023 | <strong>Address</strong>: Plot No. 89, Sector 3, IMT Manesar, Gurgaon-122050, Haryana(India)
+        </p>
+        </center>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+Dashboard
+
+
+https://codepen.io/TomasBeguan/pen/eLMRam
+https://codepen.io/T-P/pen/MyNjOO
+https://codepen.io/zoran_m/pen/qYwzjw
+
+With charts integeration
+https://codepen.io/abdokhaled/pen/wzXowJ
+
+Cool one 
+https://codepen.io/icebob/pen/gbLXQy
+
+
+Login Page
+https://codepen.io/3a4ik/pen/yEEYRm
+
+
+OCR Details
+
+Optical character recognition or optical character reader (OCR) is the mechanical or electronic conversion of images of typed, handwritten or printed text into machine-encoded text, whether from a scanned document, a photo of a document, a scene-photo (for example the text on signs and billboards in a landscape photo) or from subtitle text superimposed on an image (for example from a television broadcast).[1]
+
+Widely used as a form of information entry from printed paper data records – whether passport documents, invoices, bank statements, computerized receipts, business cards, mail, printouts of static-data, or any suitable documentation – it is a common method of digitizing printed texts so that they can be electronically edited, searched, stored more compactly, displayed on-line, and used in machine processes such as cognitive computing, machine translation, (extracted) text-to-speech, key data and text mining. OCR is a field of research in pattern recognition, artificial intelligence and computer vision.
+
+Early versions needed to be trained with images of each character, and worked on one font at a time. Advanced systems capable of producing a high degree of recognition accuracy for most fonts are now common, and with support for a variety of digital image file format inputs.[2] Some systems are capable of reproducing formatted output that closely approximates the original page including images, columns, and other non-textual components.
+
+
+Applications
+OCR engines have been developed into many kinds of domain-specific OCR applications, such as receipt OCR, invoice OCR, check OCR, legal billing document OCR.
+
+They can be used for:
+
+Data entry for business documents, e.g. check, passport, invoice, bank statement and receipt
+Automatic number plate recognition
+In airports, for passport recognition and information extraction
+Automatic insurance documents key information extraction
+Extracting business card information into a contact list[9]
+More quickly make textual versions of printed documents, e.g. book scanning for Project Gutenberg
+Make electronic images of printed documents searchable, e.g. Google Books
+Converting handwriting in real time to control a computer (pen computing)
+Defeating CAPTCHA anti-bot systems, though these are specifically designed to prevent OCR.[10][11][12] The purpose can also be to test the robustness of CAPTCHA anti-bot systems.
+Assistive technology for blind and visually impaired users

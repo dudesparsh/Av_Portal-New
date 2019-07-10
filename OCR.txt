@@ -1,0 +1,85 @@
+How do I approach and build an OCR from scratch?
+
+You need to understand the architecture for building OCR, some important steps in OCR are :
+
+1). Image Acquisition
+
+2). Pre-Processing
+
+3). Segmentation
+
+4). Feature Extraction and Normalization
+
+5). Classification and Recognition
+
+These steps are guided/driven by collection of training and testing datasets, and training processes used for training classifiers.
+
+Some popular OCR APIs
+
+Google vision api
+Amazon Rekognition
+OCR Space
+
+Open Source Frameworks:
+There are a couple of open source frameworks that can be used to build an OCR framework in house. They are effective too as long as you know how to train it for your requirements. Listed below are a couple of such frameworks.
+
+
+Python pyocr ( GNU/Linux systems )
+Tesseract-OCR
+Most OCR frameworks out there is probably built on top of Tesseract and it is the most popular among the bunch which has pretty good outcomes.
+
+https://github.com/tesseract-ocr/tesseract
+
+OCR Implementation
+https://medium.com/@balaajip/optical-character-recognition-99aba2dad314
+https://dzone.com/articles/prerequisites-for-building-an-ocr-scanner-from-scr
+
+https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8
+
+27 May
+
+Google Vision API
+
+
+Text recognition in images using vision api
+https://www.youtube.com/watch?v=hmUfGkEHakM
+
+How to extract text from images using tesseract with Python(Tesseract OCR with Python)
+https://www.youtube.com/watch?v=kxHp5ng6Rgw
+
+
+https://medium.com/searce/tips-tricks-for-using-google-vision-api-for-text-detection-2d6d1e0c6361
+
+https://hackernoon.com/optical-character-recognition-with-google-cloud-vision-api-255bb8241235
+
+https://www.datacamp.com/community/tutorials/beginner-guide-google-vision-api
+
+
+Try to run OCR Like this
+https://github.com/Hironsan/google-vision-sampler
+
+
+Other links for info
+https://www.datacamp.com/community/tutorials/machine-learning-models-api-python?tap_a=5644-dce66f&tap_s=3575
+
+https://support.foxtrotalliance.com/hc/en-us/articles/360024282351-How-To-Use-Google-Cloud-Vision-API-OCR-Image-Analysis-
+
+https://angularfirebase.com/lessons/advanced-cloud-vision-ocr-text-extraction/
+
+https://github.com/GoogleCloudPlatform/cloud-vision/tree/master/python/text
+
+https://cloud.google.com/pubsub/docs/quickstart-cli
+
+https://cloud.google.com/vision/docs/detecting-fulltext#vision-document-text-detection-python
+
+https://cloud.google.com/vision/docs/ocr#vision-detect-text-gcloud
+
+
+OCR Resources 
+Google VISION API
+Tessract
+Amazon tessract
+https://www.cloudmersive.com/image-recognition-and-processing-api
+
+https://ocr.space/
+https://rapidapi.com/WORDAPIS/api/text-document-extract
